@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Programming Languages</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">I also use</h2>
+<h2 align="left">Platforms And Tools</h2>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h2 align="left">You can find me here</h2>
+<h2 align="left">Where To Find Me</h2>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<h2 align="left">Github trophies</h2>
+<h2 align="left">Github Trophies</h2>
 
 ###
 
