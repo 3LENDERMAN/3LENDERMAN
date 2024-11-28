@@ -41,7 +41,10 @@
 ###
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3LENDERMAN&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=3LENDERMAN&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
+
+###
 
 ###
 
@@ -105,7 +108,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=3LENDERMAN&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=3LENDERMAN&theme=darkhub&column=5&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
 
 ###
