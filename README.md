@@ -40,8 +40,10 @@
 
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3LENDERMAN&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3LENDERMAN&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
