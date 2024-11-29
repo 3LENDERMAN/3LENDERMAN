@@ -49,7 +49,7 @@
 ###
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3LENDERMAN&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=3LENDERMAN&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=3LENDERMAN&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=10&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
