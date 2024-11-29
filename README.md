@@ -14,6 +14,14 @@
 
 ###
 
+<p align="left">✨ In free time, my main hobby is Astronomy, math, puzzles and sport</p>
+
+###
+
+<p align="left">💻 Beside programming I also do 3D modeling, animations, web development and video editing</p>
+
+###
+
 <h2 align="left">Programming Languages</h2>
 
 ###
